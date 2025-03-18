@@ -1,0 +1,36 @@
+body {
+	background-image: url(bg.jpg);
+	color: black;
+	font-family: "DynaPuff", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+}
+
+.container {
+	background-color: #BDBBB6;
+	padding: 10px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 10px;
+}
+
+img {
+	height: 300px;
+}
+
+#pic {
+	text-align: center;
+}
+
+#robot {
+	text-align: left;
+	border: 3px solid #E5D1D0;
+	border-radius: 10px;
+}
+
+footer {
+	text-align: center;
+}
+
